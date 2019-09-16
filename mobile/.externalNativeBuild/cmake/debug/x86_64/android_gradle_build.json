@@ -1,0 +1,120 @@
+{
+  "stringTable": {
+    "0": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DStateManagerJNI_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/../../../../Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/CMakeLists.txt",
+    "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/../../../../Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/kle-bayar/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/x86_64 --target clean"
+  ],
+  "libraries": {
+    "StateManagerJNI-Debug-x86_64": {
+      "buildCommand": "/Users/kle-bayar/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/x86_64 --target StateManagerJNI",
+      "buildType": "debug",
+      "toolchain": "2136800145",
+      "abi": "x86_64",
+      "artifactName": "StateManagerJNI",
+      "files": [
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/seriesClassification.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/fastDTW.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/warpPath.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/dtw.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/searchWindow.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/svmClassification.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/dependencies/libsvm/libsvm.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/neuralNetwork.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/modelSet.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/regression.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/knnClassification.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/dependencies/jsoncpp.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/def.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/GestureClassifier.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/StateManagerJNI.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/InterfaceJNI.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/SaveStateManager.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/build/intermediates/cmake/debug/obj/x86_64/libStateManagerJNI.so"
+    }
+  },
+  "toolchains": {
+    "2136800145": {
+      "cppCompilerExecutable": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

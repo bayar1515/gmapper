@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/../../../../Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/CMakeLists.txt",
+    "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/../../../../Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/kle-bayar/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/release/x86_64 --target clean"
+  ],
+  "libraries": {
+    "StateManagerJNI-Release-x86_64": {
+      "artifactName": "StateManagerJNI",
+      "buildCommand": "/Users/kle-bayar/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/release/x86_64 --target StateManagerJNI",
+      "abi": "x86_64",
+      "output": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/build/intermediates/cmake/release/obj/x86_64/libStateManagerJNI.so"
+    }
+  }
+}

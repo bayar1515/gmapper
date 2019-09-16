@@ -1,0 +1,103 @@
+[
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/RapidLib/src/seriesClassification.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/seriesClassification.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/seriesClassification.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/RapidLib/src/fastDTW.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/fastDTW.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/fastDTW.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/RapidLib/src/warpPath.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/warpPath.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/warpPath.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/RapidLib/src/dtw.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/dtw.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/dtw.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/RapidLib/src/searchWindow.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/searchWindow.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/searchWindow.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/RapidLib/src/svmClassification.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/svmClassification.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/svmClassification.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/RapidLib/dependencies/libsvm/libsvm.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/dependencies/libsvm/libsvm.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/dependencies/libsvm/libsvm.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/RapidLib/src/neuralNetwork.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/neuralNetwork.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/neuralNetwork.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/RapidLib/src/modelSet.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/modelSet.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/modelSet.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/RapidLib/src/regression.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/regression.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/regression.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/RapidLib/src/knnClassification.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/knnClassification.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/src/knnClassification.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/RapidLib/dependencies/jsoncpp.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/dependencies/jsoncpp.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/RapidLib/dependencies/jsoncpp.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/def.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/def.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/def.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/GestureClassifier.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/GestureClassifier.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/GestureClassifier.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/StateManagerJNI.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/StateManagerJNI.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/StateManagerJNI.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/InterfaceJNI.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/InterfaceJNI.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/InterfaceJNI.cpp"
+},
+
+{
+  "directory": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/.externalNativeBuild/cmake/debug/armeabi-v7a",
+  "command": "/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kle-bayar/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DStateManagerJNI_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/StateManagerJNI.dir/src/main/cpp/SaveStateManager.cpp.o -c /Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/SaveStateManager.cpp",
+  "file": "/Users/kle-bayar/Documents/Android/Gmapper-master/mobile/src/main/cpp/SaveStateManager.cpp"
+}
+]

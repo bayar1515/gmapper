@@ -1,0 +1,26 @@
+{
+    "eventFiles": [],
+    "gestureFiles": [
+        "0",
+        "1",
+        "5",
+        "6",
+        "8",
+        "9"
+    ],
+    "gestureIdCounter": 11,
+    "modelValues": "placeHolder",
+    "settings": {
+        "costThreshold": 100.0,
+        "oscHost": "localhost",
+        "oscPort": 8888,
+        "sendIFTTT": false,
+        "sendOSC": false,
+        "startF": 1.2111999988555908,
+        "startFT": 102,
+        "stopF": 1.0812000036239624,
+        "stopFT": 17,
+        "useWearable": false,
+        "webhookKeyIFTTT": "yourKeyHere"
+    }
+}
